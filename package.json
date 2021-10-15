@@ -1,0 +1,25 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebnautsAcademy/flow2_project2_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebnautsAcademy/flow2_project2_1/issues"
+  },
+  "homepage": "https://github.com/WebnautsAcademy/flow2_project2_1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {}
+}
